@@ -1,0 +1,8 @@
+com\hibernate\example\App1.class
+com\hibernate\example\entity\Passport.class
+com\hibernate\example\entity\Book.class
+com\hibernate\example\utility\HibernateUtility.class
+com\hibernate\example\entity\Person.class
+com\hibernate\example\entity\Publisher.class
+com\hibernate\example\App.class
+com\hibernate\example\App2.class
